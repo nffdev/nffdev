@@ -50,4 +50,10 @@
   <a href="https://github.com/nffdev/Vibby">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=Vibby" />
   </a>
+    <a href="https://github.com/nffdev/DeskR">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=DeskR" />
+  </a>
+    <a href="https://github.com/nffdev/HebergMe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=HebergMe" />
+  </a>
 </p>
