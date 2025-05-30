@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/nffdev/m5flip">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=m5flip" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=eloquence" />
   </a>
   <a href="https://github.com/nffdev/Vibby">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nffdev&repo=Vibby" />
